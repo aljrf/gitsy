@@ -1,3 +1,7 @@
+---
+title: Gitsy pages
+---
+
 this is the landing page
 
 [[Welcome]]

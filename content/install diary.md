@@ -164,6 +164,11 @@ Then, go back to your terminal and sync. Remember, that's:
 npx quartz sync
 ```
 
+It's live at 
+https://aljrf.github.io/gitsy/
+
+
+
 Change 
 
 
