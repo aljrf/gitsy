@@ -97,12 +97,13 @@ tags:
 ```
 
 
-Next thing: prepare for deplyment
+Next thing: prepare for deplyment according 
+
+https://quartz.jzhao.xyz/hosting#github-pages
 
 touch .github/workflows/deploy.yml
 
 and fill it up:
-
 ```
 name: Deploy Quartz site to GitHub Pages
  
@@ -124,18 +125,18 @@ jobs:
   build:
     runs-on: ubuntu-22.04
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
         with:
           fetch-depth: 0 # Fetch all history for git info
-      - uses: actions/setup-node@v3
+      - uses: actions/setup-node@v4
         with:
-          node-version: 18.14
+          node-version: 22
       - name: Install Dependencies
         run: npm ci
       - name: Build Quartz
         run: npx quartz build
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v3
         with:
           path: public
  
@@ -148,9 +149,8 @@ jobs:
     steps:
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v4
 ```
-
 Then:
 ### Create a GitHub Action 
 
