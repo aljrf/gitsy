@@ -164,3 +164,9 @@ Then, go back to your terminal and sync. Remember, that's:
 npx quartz sync
 ```
 
+Change 
+
+
+    pageTitle: "Gitsy",
+
+To change site title
