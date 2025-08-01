@@ -1,0 +1,18 @@
+---
+Author(s): "[[Barbara Ehrenreich]]"
+Description: From the celebrated author of Nickel and Dimed, Barbara Ehrenreich explores how we are killing ourselves to live longer, not better. A razor-sharp polemic which offers an entirely new understanding of our bodies, ourselves, and our place in the universe, Natural Causes describes how we over-prepare and worry way too much about what is inevitable. One by one, Ehrenreich topples the shibboleths that guide our attempts to live a long, healthy life -- from the importance of preventive medical screenings to the concepts of wellness and mindfulness, from dietary fads to fitness culture. But Natural Causes goes deeper -- into the fundamental unreliability of our bodies and even our "mind-bodies," to use the fashionable term. Starting with the mysterious and seldom-acknowledged tendency of our own immune cells to promote deadly cancers, Ehrenreich looks into the cellular basis of aging, and shows how little control we actually have over it. We tend to believe we have agency over our bodies, our minds, and even over the manner of our deaths. But the latest science shows that the microscopic subunits of our bodies make their own "decisions," and not always in our favor. We may buy expensive anti-aging products or cosmetic surgery, get preventive screenings and eat more kale, or throw ourselves into meditation and spirituality. But all these things offer only the illusion of control. How to live well, even joyously, while accepting our mortality -- that is the vitally important philosophical challenge of this book. Drawing on varied sources, from personal experience and sociological trends to pop culture and current scientific literature, Natural Causes examines the ways in which we obsess over death, our bodies, and our health. Both funny and caustic, Ehrenreich then tackles the seemingly unsolvable problem of how we might better prepare ourselves for the end -- while still reveling in the lives that remain to us.
+Highlight Count: 1
+Keywords:
+  - essay
+Language: en
+Title: "Natural Causes: An Epidemic of Wellness, the Certainty of Dying, and Killing Ourselves to Live Longer"
+---
+
+<!-- KOHL {"v":1,"id":"6d4b5744a794ff6a","p":9,"pos0":"/body/DocFragment[5]/body/div/section/p[18]/text().172","pos1":"/body/DocFragment[5]/body/div/section/p[18]/text().204","t":"2022-03-01 21:47:52"} -->
+## Introduction
+
+_Page 9 • Mar 1, 2022_
+
+think of life as an interruption
+
+---

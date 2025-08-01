@@ -1,0 +1,19 @@
+---
+Author(s): "[[Elizabeth Acevedo]]"
+Description: Winner of the National Book Award for Young People’s Literature, the Michael L. Printz Award, and the Pura Belpré Award!Fans of Jacqueline Woodson, Meg Medina, and Jason Reynolds will fall hard for this astonishing New York Times-bestselling novel-in-verse by an award-winning slam poet, about an Afro-Latina heroine who tells her story with blazing words and powerful truth. Xiomara Batista feels unheard and unable to hide in her Harlem neighborhood. Ever since her body grew into curves, she has learned to let her fists and her fierceness do the talking.But Xiomara has plenty she wants to say, and she pours all her frustration and passion onto the pages of a leather notebook, reciting the words to herself like prayers—especially after she catches feelings for a boy in her bio class named Aman, who her family can never know about. With Mami’s determination to force her daughter to obey the laws of the church, Xiomara understands that her thoughts are best kept to herself. So when she is invited to join her school’s slam poetry club, she doesn’t know how she could ever attend without her mami finding out. But she still can’t stop thinking about performing her poems. Because in the face of a world that may not want to hear her, Xiomara refuses to be silent.“Crackles with energy and snaps with authenticity and voice.” —Justina Ireland, author of Dread Nation“An incredibly potent debut.” —Jason Reynolds, author of the National Book Award Finalist Ghost“Acevedo has amplified the voices of girls en el barrio who are equal parts goddess, saint, warrior, and hero.” —Ibi Zoboi, author of American StreetThis young adult novel, a selection of the Schomburg Center's Black Liberation Reading List, is an excellent choice for accelerated tween readers in grades 6 to 8.Plus don't miss Elizabeth Acevedo's With the Fire on High and Clap When You Land!
+Highlight Count: 1
+Keywords:
+  - woke
+  - poetry
+Language: en
+Title: The Poet X
+---
+
+<!-- KOHL {"v":1,"id":"4fa481666e1a4096","p":61,"pos0":"/body/DocFragment[35]/body/p[9]/text().21","pos1":"/body/DocFragment[35]/body/p[10]/text().47","t":"2022-01-06 22:57:07"} -->
+## It’s Only the First Week of Tenth Grade
+
+_Page 61 • Jan 6, 2022_
+
+no one cares about<br><br>what your face does, only what your hands’ll do
+
+---

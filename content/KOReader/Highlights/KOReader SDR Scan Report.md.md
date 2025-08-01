@@ -1,0 +1,398 @@
+# KOReader SDR Scan Report
+
+*Scan performed on: 8/1/2025, 7:32:08 PM*
+*Mount Point: /media/aljrf/Extreme SSD/Books*
+
+Found 386 ".sdr" directories with metadata:
+
+- `/hours/Gregory Lopez - A Handbook for New Stoics_ How to Thrive in a World Out of Your Control—52 Week-By-Week Lessons.sdr`
+- `/hours/Stephen Hanselman - The Daily Stoic_ 366 Meditations on Wisdom_ Perseverance_ and the Art of Living_ Featuring New Translations of Seneca_ Epictetus_ and Marcus Aurelius.sdr`
+- `/numbers/1/Ali Hazelwood - Not in Love.sdr`
+- `/numbers/1/Alison Espach - The Wedding People.sdr`
+- `/numbers/1/Anita Kelly - How You Get the Girl.sdr`
+- `/numbers/1/Bruce Myles - Night Witches - The Amazing Story of Russia's Women Pilots in World War II.sdr`
+- `/numbers/1/Emily Henry - Happy Place.sdr`
+- `/numbers/1/Emily Tesh - Some Desperate Glory.sdr`
+- `/numbers/1/Haruki Murakami - Norwegian Wood.sdr`
+- `/numbers/1/John Green - Everything Is Tuberculosis.sdr`
+- `/numbers/1/Lawrence Wright - Going Clear.sdr`
+- `/numbers/1/Mary Gaitskill - Bad Behavior.sdr`
+- `/numbers/1/Sally Rooney - Normal People.sdr`
+- `/numbers/1/Taylor Jenkins Reid - The Seven Husbands of Evelyn Hugo.sdr`
+- `/numbers/1/Toshikazu Kawaguchi - Before the Coffee Gets Cold.sdr`
+- `/numbers/1_07/Abby Jimenez - The Friend Zone.sdr`
+- `/numbers/1_07/Adam Rutherford - The Complete Guide to Absolutely Everything_ (_Abridged)_ Adventures in Math and Science.sdr`
+- `/numbers/1_07/Airey Neave - They Have Their Exits_ A Classic World War Two Memoir of Action and Escape.sdr`
+- `/numbers/1_07/Amanda Montell - The Age of Magical Overthinking_ Notes on Modern Irrationality.sdr`
+- `/numbers/1_07/Andrea Camilleri - 14 - La vampa d'agosto.sdr`
+- `/numbers/1_07/Camonghne Felix - Dyscalculia_ A Love Story of Epic Miscalculation.sdr`
+- `/numbers/1_07/Chelsea Handler - Chelsea Chelsea Bang Bang.sdr`
+- `/numbers/1_07/Christina Dalcher - Vox.sdr`
+- `/numbers/1_07/Clare Pooley - Iona Iverson's Rules for Commuting.sdr`
+- `/numbers/1_07/Daniel Solow - How to Read and Do Proofs_ An Introduction to Mathematical Thought Processes.sdr`
+- `/numbers/1_07/David Acheson - 1089 and All That_ A Journey Into Mathematics.sdr`
+- `/numbers/1_07/Dessa - My Own Devices.sdr`
+- `/numbers/1_07/Emily Dickinson - Letters of Emily Dickinson.sdr`
+- `/numbers/1_07/Giorgio Faletti - La ricetta della mamma.sdr`
+- `/numbers/1_07/Jamie Frater - Listverse.com's Ultimate Book o.sdr`
+- `/numbers/1_07/Jessi Klein - You'll grow out of it.sdr`
+- `/numbers/1_07/John Kennedy Toole - A Confederacy of Dunces.sdr`
+- `/numbers/1_07/Joyce Carol Oates - I Am No One You Know.sdr`
+- `/numbers/1_07/Judith Butler - Frames of War.sdr`
+- `/numbers/1_07/Kate Manne - Down Girl_ The Logic of Misogyny.sdr`
+- `/numbers/1_07/Katherine Heiny - Standard Deviation.sdr`
+- `/numbers/1_07/Kazuo Ishiguro - Never Let Me Go.sdr`
+- `/numbers/1_07/Kristi Coulter - Nothing Good Can Come From This_ Essays.sdr`
+- `/numbers/1_07/Lauren Shippen - The Infinite Noise.sdr`
+- `/numbers/1_07/Malcolm Gladwell - Talking to Strangers_ What We Should Know About the People We Don't Know.sdr`
+- `/numbers/1_07/Malcolm Gladwell - What the Dog Saw_ And Other Adventures.sdr`
+- `/numbers/1_07/Matt Parker - Things to Make and Do in the Fourth Dimension_ A Mathematician's Journey Through Narcissistic Numbers_ Optimal Dating Algorithms_ at Least Two Kinds of Infinity_ and More.sdr`
+- `/numbers/1_07/Mo Gawdat - Solve for Happy.sdr`
+- `/numbers/1_07/Naoise Dolan - Exciting Times.sdr`
+- `/numbers/1_07/Naomi Shihab Nye - The Tiny Journalist.sdr`
+- `/numbers/1_07/Peter E Browne - El amor por lo (par)odiado _ la poesía de Gloria Fuertes y Angel González.sdr`
+- `/numbers/1_07/Richard P. Feynman - _Surely You're Joking_ Mr. Feynman!__ Adventures of a Curious Character.sdr`
+- `/numbers/1_07/Roger Kreuz - Becoming Fluent.sdr`
+- `/numbers/1_07/Ryan North - Romeo And_or Juliet.sdr`
+- `/numbers/1_07/Samantha Harvey - The Shapeless Unease.sdr`
+- `/numbers/1_07/Shelby Van Pelt - Remarkably Bright Creatures.sdr`
+- `/numbers/1_07/Susan Sheehan - Is There No Place on Earth for Me.sdr`
+- `/numbers/1_07/Taylor Jenkins Reid - Atmosphere.sdr`
+- `/numbers/1_07/Tiago Forte - Design Your Work_ Praxis Volume 1.sdr`
+- `/numbers/1_07/Tiago Forte - Extend Your Mind_ Praxis Volume 2.sdr`
+- `/numbers/1_07/Tom Wolfe - The Right Stuff.sdr`
+- `/numbers/1_07/William Poundstone - How Would You Move Mount Fuji__ Microsoft's Cult of the Puzzle - How the World's Smartest Companies Select the Most Creative Thinkers.sdr`
+- `/numbers/2/Adrienne Rich - A Wild Patience Has Taken Me This Far_ Poems 1978-1981.sdr`
+- `/numbers/2/Adrienne Rich - The Dream of a Common Language_ Poems 1974-1977.sdr`
+- `/numbers/2/Arthur Schopenhauer - Essays and Aphorisms.sdr`
+- `/numbers/2/Elizabeth Strout - Olive Kitteridge.sdr`
+- `/numbers/2/Marianne Moore - New Collected Poems of Marianne Moore.sdr`
+- `/numbers/2/Maurice Blanchot - Chroniques politiques des années trente (1931-1940).sdr`
+- `/numbers/2/Monique Wittig - Les Guerilleres.sdr`
+- `/numbers/3/Marina Whitman - The Martian's Daughter_ A Memoir.sdr`
+- `/highlights/goodquotes.sdr`
+- `/nxt/biocom/Best American Travel Writing 2011, The - Sloane Crosley (5749).sdr`
+- `/nxt/biocom/Best of Me, The - David Sedaris (4877).sdr`
+- `/nxt/biocom/Broken (In the Best Possible Way) - Jenny Lawson (4689).sdr`
+- `/nxt/biocom/Candyfreak_ A Journey Through the Chocolate Underbelly of America - Steve Almond (5813).sdr`
+- `/nxt/biocom/Delilah Green Doesn't Care - Ashley Herring Blake (5773).sdr`
+- `/nxt/biocom/Grief Is for People - Sloane Crosley.sdr`
+- `/nxt/biocom/Hood Feminism_ Notes From the Women That a Movement Forgot - Mikki Kendall (4390).sdr`
+- `/nxt/biocom/How to Fall in Love With Anyone_ A Memoir in Essays - Mandy Len Catron (5587).sdr`
+- `/nxt/biocom/I. Asimov_ A Memoir - Isaac Asimov (4697).sdr`
+- `/nxt/biocom/Meaty_ Essays - Samantha Irby (5783).sdr`
+- `/nxt/biocom/New York Nobody Knows, The - William B. Helmreich (5260).sdr`
+- `/nxt/biocom/Sloane Crosley - The Clasp (retail) (epub).sdr`
+- `/nxt/biocom/Ten Steps to Nanette - Hannah Gadsby.epub; filename_=UTF-8''Ten Steps to Nanette - Hannah Gadsby.sdr`
+- `/nxt/bod/Instant rock climbing - Infinite Ideas.sdr`
+- `/nxt/bod/Real Self-Care_ A Transformative Program for Redefining Wellness (Crystals, Cleanses, and Bubble Baths Not Included) - Pooja Lakshmin, MD (5999).sdr`
+- `/nxt/bod/The Mountain Is You - Transforming Self-Sabotage Into Self-Mastery By Brianna Wiest.sdr`
+- `/nxt/bod/Vertical Mind_ Psychological Approaches for Optimal Rock Climbing by Don McGrath.sdr`
+- `/nxt/brow/101 Essays That Will Change the Way You Think - Brianna Wiest (5043).sdr`
+- `/nxt/brow/Against Interpretation & Other Essays (FSG, 1966) - Susan Sontag (3342).sdr`
+- `/nxt/brow/American Messiahs_ False Prophets of a Damned Nation - Adam Morris (4200).sdr`
+- `/nxt/brow/B007714ATC EBOK - Transtromer, Tomas (5044).sdr`
+- `/nxt/brow/Black Hole Blues and Other Songs From Outer Space - Janna Levin (5798).sdr`
+- `/nxt/brow/Bronte's Jane Eyre - Karin Jacobsen; Mary Ellen Snodgrass (5990).sdr`
+- `/nxt/brow/Diccionario de los sentimientos - Jose Antonio Marina & Marisa Lopez Penas (5887).sdr`
+- `/nxt/brow/Eating Animals - Jonathan Safran Foer (1589).sdr`
+- `/nxt/brow/Elements of Expression_ Putting Thoughts Into Words, The - Arthur Plotnik (4608).sdr`
+- `/nxt/brow/Essays & Aphorisms (Penguin, 2004) - Arthur Schopenhauer (1579).sdr`
+- `/nxt/brow/Fox_ Kate; - Watching the English_ Second Edition.sdr`
+- `/nxt/brow/Jane Eyre - Charlotte Bronte (5992).sdr`
+- `/nxt/brow/Letters to Sartre - Simone de Beauvoir.sdr`
+- `/nxt/brow/Modern Whore_ A Memoir - Andrea Werhun & Nicole Bazuin (5290).sdr`
+- `/nxt/brow/Monsters by Trade_ Slave Traffickers in Modern Spanish Literature and Culture - Lisa Surwillo.sdr`
+- `/nxt/brow/Moving Beyond Words_ Essays on Age, Rage, Sex, Power, Money, Muscles_ Breaking the Boundaries of Gender - Gloria Steinem.sdr`
+- `/nxt/brow/New Breed, The - Kate Darling (4995).sdr`
+- `/nxt/brow/New York Times Book Review_ 125 Years of Literary History, The - The New York Times (5410).sdr`
+- `/nxt/brow/On Photography (Picador, 2011) - Susan Sontag (3468).sdr`
+- `/nxt/brow/Outrageous Acts and Everyday Rebellions - Gloria Steinem (4908).sdr`
+- `/nxt/brow/Quotable Hitchens_ From Alcohol to Zionism -- the Very Best of Christopher Hitchens, The - Windsor Mann (6027).sdr`
+- `/nxt/brow/Several Short Sentences About Writing - Verlyn Klinkenborg (5254).sdr`
+- `/nxt/brow/Sonic Episteme Acoustic Resonance, Neoliberalism, and Biopolitics (Robin James) (z-lib.org), The - Robin James.sdr`
+- `/nxt/brow/Soul of a New Machine, The - Tracy Kidder (4120).sdr`
+- `/nxt/brow/Superman on the Couch_ What Superheroes Really Tell Us About Ourselves and Our Society - Danny Fingeroth (4532).sdr`
+- `/nxt/brow/The View from the Cheap Seats - Neil Gaiman.sdr`
+- `/nxt/brow/Things I Don't Want to Know - Deborah Levy (4240).sdr`
+- `/nxt/brow/Trick Mirror_ Reflections on Self-Delusion - Jia Tolentino (4775).sdr`
+- `/nxt/brow/Watching the English, Second Edition - Fox, Kate; (5258).sdr`
+- `/nxt/brow/What Is Found There - Adrienne Rich.sdr`
+- `/nxt/brow/What's Wrong with Eating People - Peter Cave (1272).sdr`
+- `/nxt/brow/Why Fish Don't Exist_ A Story of Loss, Love, and the Hidden Order of Life - Lulu Miller (5205).sdr`
+- `/nxt/brow/Wittgenstein's Secret Diaries_ Semiotic Writing in Cryptography - Gorlee, Dinda L. (4930).sdr`
+- `/nxt/learn/Art of Learning, The - Josh Waitzkin (3794).sdr`
+- `/nxt/learn/Aspergirls_ Empowering Females With Asperger Syndrome - Rudy Simone (4964).sdr`
+- `/nxt/learn/Chess_ 5334 Problems, Combinations and Games - Chess 5334 Problems, Combinations & Games (4679).sdr`
+- `/nxt/learn/Effective Notetaking - Fiona McPherson (5091).sdr`
+- `/nxt/learn/Good Old Fashioned Challenging Puzzles_ And Perplexing Mathematical Problems - H E Dudeney (4566).sdr`
+- `/nxt/learn/Grasp_ The Science Transforming How We Learn - Sanjay Sarma & Luke Yoquinto (4820).sdr`
+- `/nxt/learn/How to Study for a Mathematics Degree - Lara Alcock (5684).sdr`
+- `/nxt/learn/How to Study_ The Program That Has Helped Millions of Students Study Smarter, Not Harder. - Ronald W. Fry (5077).sdr`
+- `/nxt/learn/lang/07 - La gita a Tindari - Andrea Camilleri (4047).sdr`
+- `/nxt/learn/lang/Hitching Rides With Buddha - Will Ferguson (4353).sdr`
+- `/nxt/learn/lang/L'ecriture du desastre - Maurice Blanchot (5038).sdr`
+- `/nxt/learn/lang/L'infinito - John D. Barrow.sdr`
+- `/nxt/learn/lang/La Divina Commedia. Inferno - Dante Alighieri (4629).sdr`
+- `/nxt/learn/lang/Les Essais - Livre I Illustrated - Michel de Montaigne.sdr`
+- `/nxt/learn/lang/Racconti di Montalbano - Andrea Camilleri.sdr`
+- `/nxt/learn/lang/Se una notte d'inverno un viaggiatore - Italo Calvino (5863).sdr`
+- `/nxt/learn/lang/Tutti i romanzi - Luigi Pirandello (5248).sdr`
+- `/nxt/learn/Linear Algebra - Gilbert Strang (4728).sdr`
+- `/nxt/learn/Make It Stick - Peter C. Brown & Henry L. Roediger (iii) & Mark A. McDaniel (5088).sdr`
+- `/nxt/learn/Math-Based Writing System for Engineers_ Sentence Algebra & Document Algorithms, A - Brad Henderson (4893).sdr`
+- `/nxt/learn/Mind for Numbers_ How to Excel at Math and Science (Even if You Flunked Algebra), A - Barbara Oakley, Phd (5259).sdr`
+- `/nxt/learn/Noise in HF circuits and oscillators - Leanpub (4807).sdr`
+- `/nxt/learn/Philosophy and Fun of Algebra - Boole Mary Everest (5842).sdr`
+- `/nxt/learn/Pi in the Sky_ Counting, Thinking, and Being - John D. Barrow (4721).sdr`
+- `/nxt/learn/Soviet Chess Primer, The - Ilya Maizelis & Mark Dvoretsky & Emanuel Lasker (4680).sdr`
+- `/nxt/learn/Teach Students How to Learn.sdr`
+- `/nxt/learn/Unlimited Memory_ How to Use Advanced Learning Strategies to Learn Faster, Remember More and be More Productive (Mental Mastery Book 1) - Kevin Horsley (4414).sdr`
+- `/nxt/learn/Weird Math_ A Teenage Genius and His Teacher Reveal the Strange Connections Between Math and Everyday Life - David Darling & Agnijo Banerjee (4458).sdr`
+- `/nxt/learn/Well-Trained Mind_ A Guide to Classical Education at Home (Fourth Edition), The - Susan Wise Bauer & Jessie Wise (4429).sdr`
+- `/nxt/learn/Writing to Learn_ How to Write - and Think - Clearly About Any Subject at All - William Zinsser (5250).sdr`
+- `/nxt/learn/Your College Experience_ Strategies for Success - John N. Gardner & A. Jerome Jewler & Betsy Barefoot (4746).sdr`
+- `/nxt/litrom/All Rhodes Lead Here - Mariana Zapata.sdr`
+- `/nxt/litrom/Anatomy of Love - Helen Fisher.sdr`
+- `/nxt/litrom/Blood Percussion - Nate Marshall (4833).sdr`
+- `/nxt/litrom/Caitriona Lally - Eggshells.sdr`
+- `/nxt/litrom/Catch-22 - Joseph Heller (1608).sdr`
+- `/nxt/litrom/Choi, Mary H.K. - Emergency Contact (2018).sdr`
+- `/nxt/litrom/Choi, Mary H.K. - Permanent Record (2019).sdr`
+- `/nxt/litrom/Clare Pooley - Iona Iverson's Rules for Commuting.sdr`
+- `/nxt/litrom/Dictionary of Lost Words, The - Pip Williams (5311).sdr`
+- `/nxt/litrom/Elliot Allagash - Simon Rich (4681).sdr`
+- `/nxt/litrom/Gilda Stories, The - Jewelle Gomez (4779).sdr`
+- `/nxt/litrom/Halting State #01 - Halting State - Charles Stross.sdr`
+- `/nxt/litrom/Katherine Center - The Rom-Commers.sdr`
+- `/nxt/litrom/Love and Other Thought Experime - Sophie Ward.sdr`
+- `/nxt/litrom/New Teeth_ Stories - Simon Rich (4682).sdr`
+- `/nxt/litrom/Practical Magic - Alice Hoffman (5336).sdr`
+- `/nxt/litrom/Recursion_ A Novel - Blake Crouch (5094).sdr`
+- `/nxt/litrom/Rufi Thorpe - Margo's Got Money Troubles.sdr`
+- `/nxt/litrom/Sadie on a Plate - Amanda Elliot (5291).sdr`
+- `/nxt/litrom/Song of Solomon - Toni Morrison (1624).sdr`
+- `/nxt/litrom/The Book of Form and Emptiness_ A Novel - Ruth Ozeki.sdr`
+- `/nxt/litrom/The Marriage Act_ A Novel - John Marrs.sdr`
+- `/nxt/litrom/The Perks of Loving a Wallflower - Erica Ridley.sdr`
+- `/nxt/litrom/TMG VOL 4 - John Darnielle (5036).sdr`
+- `/nxt/litrom/Touch of Jen, A - Beth Morgan (5785).sdr`
+- `/nxt/litrom/Vanishing Half, The - Brit Bennett (4691).sdr`
+- `/nxt/meh/Arthur Schopenhauer - Essays & Aphorisms (Penguin_ 2004).sdr`
+- `/nxt/meh/Between You & Me_ Confessions of a Comma Queen - Mary Norris.sdr`
+- `/nxt/meh/Brief Interviews with Hideous Men - David Foster Wallace.sdr`
+- `/nxt/meh/Canon_ The Beautiful Basics of Science, The - Natalie Angier (4605).sdr`
+- `/nxt/meh/Death Kit (Picador, 2002) - Susan Sontag.sdr`
+- `/nxt/meh/Dolly Alderton - Tutto quello che so sull'amore.sdr`
+- `/nxt/meh/Katherine Center - The Rom-Commers.sdr`
+- `/nxt/meh/L'élégance du hérisson - Muriel Barbery.sdr`
+- `/nxt/meh/Maxwell Maltz - New Psycho-Cybernetics.sdr`
+- `/nxt/meh/On Lies, Secrets, and Silence - Adrienne Rich (5951).sdr`
+- `/nxt/meh/Osamu Dazai - No Longer Human.sdr`
+- `/nxt/meh/Philip Carter - The Complete Book of Intelligence Tests_ 500 Exercises to Improve_ Upgrade and Enhance Your Mind Strength.sdr`
+- `/nxt/meh/Rachel Bloom - I Want to Be Where the Normal People Are.sdr`
+- `/nxt/meh/Sonnets (The New Cambridge Shakespeare), The - William Shakespeare (4310).sdr`
+- `/nxt/meh/SuperBetter_ The Power of Living Gamefully - Jane McGonigal.sdr`
+- `/nxt/meh/Tell Me Again How a Crush Should Feel_ A Novel - Sara Farizan (4954).sdr`
+- `/nxt/meh/Vicente Huidobro - Altazor o el viaje en paracaídas.sdr`
+- `/nxt/meh/Well-Educated Mind_ A Guide to the Classical Education You Never Had, The - S. Wise Bauer (5728).sdr`
+- `/nxt/meh/Western Canon (Harcourt, 1994) - Harold Bloom (476).sdr`
+- `/nxt/meh/Wrinkle in Time, A - Madeleine L'Engle (5945).sdr`
+- `/nxt/meh/Zio Tungsteno - Sacks Oliver.sdr`
+- `/nxt/paws/Algorithms to Live By_ The Computer Science of Human Decisions - Brian Christian & Tom Griffiths.sdr`
+- `/nxt/paws/Casey Wilson - The Wreckage of My Presence.sdr`
+- `/nxt/paws/Oliver Sacks - The Mind's Eye.sdr`
+- `/nxt/paws/Simone de Beauvoir - Lettres au Castor et à quelques autres_ 1940-1963.sdr`
+- `/nxt/paws/You Made a Fool of Death With Your Beauty_ A Novel - Akwaeke Emezi (5306).sdr`
+- `/nxt/poetry/Poesia completa - Miquel Martí i Pol.sdr`
+- `/nxt/psiphilo/Atlas of the Heart _ Mapping Meaningful Connection and the Language of Human Experience (_ Mapping Meaningful Connection and the Language of Human Experience - Brown, Bren (5747).sdr`
+- `/nxt/psiphilo/Buddha - Karen Armstrong (3808).sdr`
+- `/nxt/psiphilo/Buddhism For Dummies - Jonathan Landaw (5319).sdr`
+- `/nxt/psiphilo/Courage to Be Happy.sdr`
+- `/nxt/psiphilo/How to Be Alone - Sara Maitland & The School of Life (4552).sdr`
+- `/nxt/psiphilo/How to Do Nothing - Jenny Odell (4366).sdr`
+- `/nxt/psiphilo/In the Buddha's Words_ An Anthology of Discourses From the Pali Canon - Bhikkhu Bodhi (5).sdr`
+- `/nxt/psiphilo/Inciting Joy - Ross Gay (5897).sdr`
+- `/nxt/psiphilo/Introduction to Zen Buddhism, An - D. T. Suzuki (517).sdr`
+- `/nxt/psiphilo/Journal to the Self_ Twenty-Two Paths to Personal Growth - Open the Door to Self-Understanding Bu Writing, Reading, and Creating a Journal of Your Life - Kathleen Adams (5042).sdr`
+- `/nxt/psiphilo/Natural Causes_ An Epidemic of Wellness, the Certainty of Dying, and Killing Ourselves to Live Longer - Barbara Ehrenreich (4906).sdr`
+- `/nxt/psiphilo/OrganizedMind - Unknown (3159).sdr`
+- `/nxt/psiphilo/Philosophy of Cognitive-Behavioural Therapy _ Stoic Philosophy as Rational and Cognitive Psychotherapy, The - Donald Robertson (4419).sdr`
+- `/nxt/psiphilo/School of Life_ An Emotional Education, The - Alain De Botton & The School of Life (4553).sdr`
+- `/nxt/psiphilo/Science of Living, The - Alfred Adler (5906).sdr`
+- `/nxt/psiphilo/stoic warriors - Nancy Sherman (4560).sdr`
+- `/nxt/psiphilo/syntoptic_psi/Buddhism 101 - Arnie Kozak (1043).sdr`
+- `/nxt/psiphilo/syntoptic_psi/Cognitive Behavior Therapy, Second Edition_ Basics and Beyond - Judith S. Beck (4195).sdr`
+- `/nxt/psiphilo/syntoptic_psi/Stoicism_ Ultimate Handbook to Stoic Philosophy, Wisdom and Way of Life - Thomas Beckett (4167).sdr`
+- `/nxt/psiphilo/True Refuge_ Finding Peace and Freedom in Your Own Awakened Heart - Tara Brach (9).sdr`
+- `/nxt/queer/Burn the Binary!_ Selected Writings on the Politics of Trans, Genderqueer and Nonbinary - Riki Wilchins (5995).sdr`
+- `/nxt/queer/Ethical Slut - Dossie Easton, Janet W. Hardy, The - Dossie Easton (861).sdr`
+- `/nxt/spectrum/Check the Technique_ Liner Notes for Hip-Hop Junkies - Brian Coleman.sdr`
+- `/nxt/spectrum/Language Lover's Puzzle Book_ Lexical Perplexities and Cracking Conundrums From Across the Globe, The - Alex Bellos (4788).sdr`
+- `/nxt/spectrum/Puzzler_ One Man's Quest to Solve the Most Baffling Puzzles Ever, from Crosswords to Jigsaws to the Meaning of Life, The - A.J. Jacobs (5283).sdr`
+- `/nxt/spectrum/The 99% Invisible City_ A Field Guide to the Hidden World of Everyday Design - Roman Mars.sdr`
+- `/nxt/spectrum/Word Freak_ Heartbreak, Triumph, Genius, and Obsession in the World of Competitive Scrabble Players - Stefan Fatsis (4522).sdr`
+- `/reading/Amanda Montell - Wordslut.sdr`
+- `/reading/Andrea Gibson - The Madness Vase.sdr`
+- `/reading/Carl Aderhold - Les poissons ne connaissent pas l'adultère.sdr`
+- `/reading/Crying in H Mart_ A Memoir - Michelle Zauner.sdr`
+- `/reading/Edith Hall - Aristotle’s Way.sdr`
+- `/reading/Gloria Steinem - My Life on the Road.sdr`
+- `/reading/Rachel Wetzsteon - The collected poems of Emily Dickinson.sdr`
+- `/reading/Samantha Harvey - Orbital.sdr`
+- `/reading/Sarah T. Dubb - Birding with Benefits.sdr`
+- `/read/2015 Alex Honnold - Alone on the Wall_Ratl.sdr`
+- `/read/A Girl Named Digit - Annabel Monaghan (5187).sdr`
+- `/read/A Room of One's Own - Virginia Woolf.sdr`
+- `/read/Act Your Age - Eve Dangerfield (4962).sdr`
+- `/read/Act Your Age, Eve Brown_ The Perfect Feel Good, Sexy Romcom for 2021 - Talia Hibbert.sdr`
+- `/read/Adventures in Stationery - Ward, James; (5873).sdr`
+- `/read/All Systems Red - Martha Wells (4856).sdr`
+- `/read/Alphabetical Diaries - Sheila Heti.sdr`
+- `/read/Arden Joy - Keep This off the Record.sdr`
+- `/read/Bad Feminist - Roxane Gay (822).sdr`
+- `/read/Bad Haircut - Tom Perrotta (5053).sdr`
+- `/read/Baek Sehee - I Want to Die but I Want to Eat Tteokbokki.sdr`
+- `/read/Beach Read - Emily Henry (5081).sdr`
+- `/read/Below Zero - Ali Hazelwood.sdr`
+- `/read/Book Lovers - Emily Henry (5098).sdr`
+- `/read/Book of Delights_ Essays, The - Ross Gay (5896).sdr`
+- `/read/Breath_ The New Science of a Lost Art - James Nestor (5753).sdr`
+- `/read/Buddhism 101 - Arnie Kozak (1043).sdr`
+- `/read/Building a Second Brain_ A Proven Method to Organise Your Digital Life and Unlock Your Creative Potential - Tiago Forte (5189).sdr`
+- `/read/Check & Mate - Ali Hazelwood.sdr`
+- `/read/Cody Cassidy - And Then You're Dead.sdr`
+- `/read/Complete Guide to Absolutely Everything_ (_Abridged)_ Adventures in Math and Science, The - Hannah Fry & Adam Rutherford (5634).sdr`
+- `/read/Counting by 7s - Holly Goldberg Sloan (5194).sdr`
+- `/read/Dating-Ish_ A Friends to Lovers Romance - Penny Reid (5292).sdr`
+- `/read/Dear Rachel Maddow_ A Novel - Adrienne Kisner.sdr`
+- `/read/Design of Everyday Things_ Revised and Expanded Edition, The - Norman, Don (5048).sdr`
+- `/read/Desmond Morris - Catwatching.sdr`
+- `/read/Doppelganger_ A Trip Into the Mirror World - Naomi Klein (5981).sdr`
+- `/read/Dyscalculia_ A Love Story of Epic Miscalculation - Camonghne Felix.sdr`
+- `/read/Dzongsar Jamyang Khyentse - What Makes You Not a Buddhist.sdr`
+- `/read/Eleanor Oliphant Is Completely Fine - Gail Honeyman (4301).sdr`
+- `/read/Emily Austin - Everyone in This Room Will Someday Be Dead.sdr`
+- `/read/Emily Austin - Interesting Facts about Space_ A Novel.sdr`
+- `/read/Eric Jarosinski - Nein. a Manifesto.sdr`
+- `/read/Extras - Scott Westerfeld.sdr`
+- `/read/Falling in Love Montage, The - Ciara Smyth (4695).sdr`
+- `/read/Fire Next Time, The - James Baldwin (4097).sdr`
+- `/read/Forty-One False Starts_ Essays on Artists and Writers - Janet Malcolm (4616).sdr`
+- `/read/Fran Lebowitz Reader, The - Fran Lebowitz (6014).sdr`
+- `/read/Frances Maynard - The Seven Rules of Elvira Carr.sdr`
+- `/read/Fuel - Naomi Shihab Nye (4599).sdr`
+- `/read/Gender Trouble_ Feminism and the Subversion of Identity - Judith Butler (5891).sdr`
+- `/read/Girl Crushed - Katie Heaney.sdr`
+- `/read/Grammatica italiana - Redazioni Garzanti (4662).sdr`
+- `/read/Happy-Go-Lucky - David Sedaris (5825).sdr`
+- `/read/Hating Game_ TikTok Made Me Buy It! The Perfect Enemies to Lovers Romcom, The - Sally Thorne (4965).sdr`
+- `/read/Heartburn - Nora Ephron (4235).sdr`
+- `/read/Hits and Misses - Simon Rich (4685).sdr`
+- `/read/How Did You Get This Number - Sloane Crosley (5312).sdr`
+- `/read/How Reading Changed My Life - Anna Quindlen (650).sdr`
+- `/read/How to Be a Person_ The Stranger's Guide to College, Slle & Bethany Jean Clement & The Staff Of The Stranger.sdr`
+- `/read/How to Be Alone_ If You Want To, and Even if You Don't - Lane Moore (4551).sdr`
+- `/read/How to Date Men When You Hate Men - Blythe Roberson (5288).sdr`
+- `/read/How to Hack a Heartbreak - Kristin Rockaway (4940).sdr`
+- `/read/How to Invent Everything_ A Survival Guide for the Stranded Time Traveler - Ryan North (5912).sdr`
+- `/read/How to Keep House While Drowning_ A Gentle Approach to Cleaning and Organizing - KC Davis (5848).sdr`
+- `/read/I Remember Nothing_ And Other Reflections - Nora Ephron (4236).sdr`
+- `/read/I Was Told There'd Be Cake - Sloane Crosley (4326).sdr`
+- `/read/I'm Glad My Mom Died (9781982185848) - McCurdy, Jennette (5323).sdr`
+- `/read/I'm Just a Person - Tig Notaro (4232).sdr`
+- `/read/In the Land of Invented Languages_ Esperanto Rock Stars, Klingon Poets, Loglan Lovers, and the Mad Dreamers Who Tried to Build a Perfect Language - Arika Okrent (1389).sdr`
+- `/read/Indistractable_ How to Control Your Attention and Choose Your Life - Nir Eyal (5249).sdr`
+- `/read/Is Everyone Hanging Out Without Me_ - Mindy Kaling (5456).sdr`
+- `/read/Is This Anything_ - Jerry Seinfeld (4562).sdr`
+- `/read/Judith Halberstam - The Queer Art of Failure Duke (6010).sdr`
+- `/read/Katherine May - Wintering_ The Power of Rest and Retreat in Difficult Times.sdr`
+- `/read/Keeping You a Secret - Julie Anne Peters (41).sdr`
+- `/read/Kiko Amat - Rompepistas.sdr`
+- `/read/King Kong theorie - Virginie Despentes (6002).sdr`
+- `/read/Kiss Quotient, The - Helen Hoang (3940).sdr`
+- `/read/Klara and the Sun - Kazuo Ishiguro (4534).sdr`
+- `/read/L'amour dure trois ans_ roman - Frederic Beigbeder.sdr`
+- `/read/Late to the Party - Kelly Quindlen (4723).sdr`
+- `/read/Le Deuxieme Sexe_ the Second Sex (Folio Essais) (French Edition) - Simone de Beauvoir (3871).sdr`
+- `/read/Leopoldo María Panero - Poemas del manicomio de Mondragón.sdr`
+- `/read/Lessons in Chemistry - Bonnie Garmus (5762).sdr`
+- `/read/Loathe to Love You - Ali Hazelwood.sdr`
+- `/read/Love & Other Carnivorous Plants - Florence Gonsalves (4798).sdr`
+- `/read/Love Hypothesis, The - Ali Hazelwood (4860).sdr`
+- `/read/Love on the Brain - Ali Hazelwood (5465).sdr`
+- `/read/Love, Theoretically - Ali Hazelwood (5902).sdr`
+- `/read/Machines Like Me_ A Novel - Ian McEwan (5793).sdr`
+- `/read/Man Who Loved Only Numbers_ The Story of Paul Erdos and the Search for Mathematical Truth, The - Paul Hoffman (4641).sdr`
+- `/read/Marilyn_ Norma Jeane - Gloria Steinem.sdr`
+- `/read/Mary Oliver - A Poetry Handbook.sdr`
+- `/read/Math With Bad Drawings_ Illuminating the Ideas That Shape Our Reality - Ben Orlin (4642).sdr`
+- `/read/Maths on the Back of an Envelope_ Clever Ways to (Roughly) Calculate Anything - Rob Eastaway.sdr`
+- `/read/Matilda - Roald Dahl & Quentin Blake (3893).sdr`
+- `/read/Matt Haig - Reasons to Stay Alive.sdr`
+- `/read/Me and Earl and the Dying Girl_ A Novel - Jesse Andrews (5268).sdr`
+- `/read/Melissa Broder - So Sad Today.sdr`
+- `/read/Men Explain Things to Me - Rebecca Solnit (454).sdr`
+- `/read/Metropolitan life - Fran Lebowitz (5115).sdr`
+- `/read/Miranda July - All Fours.sdr`
+- `/read/Mother of All Questions, The - Rebecca Solnit (4776).sdr`
+- `/read/Mountain in the Sea_ A Novel, The - Ray Nayler (5799).sdr`
+- `/read/Musicophilia_ Tales of Music and the Brain - Oliver Sacks.sdr`
+- `/read/My Life as an Experiment - A. J. Jacobs (5800).sdr`
+- `/read/My Planet_ Finding Humor in the Oddest Places - Mary Roach (5808).sdr`
+- `/read/My Year of Rest and Relaxation - Ottessa Moshfegh.sdr`
+- `/read/Natalie Sue - I Hope This Finds You Well.sdr`
+- `/read/Non si direbbe che sei napoletano - Alessandro Siani.sdr`
+- `/read/Not Your Shoe Size_ An Act Your Age novella - Eve Dangerfield (5045).sdr`
+- `/read/Oliver Burkeman - Meditations for Mortals.sdr`
+- `/read/Opposite of Loneliness_ Essays and Stories, The - Marina Keegan (4017).sdr`
+- `/read/Owning Regins.sdr`
+- `/read/People We Meet on Vacation - Emily Henry.sdr`
+- `/read/Peter Miller - How to Wash the Dishes.sdr`
+- `/read/Philomena Cunk - Cunk on Everything.sdr`
+- `/read/Poet X, The - Elizabeth Acevedo (4787).sdr`
+- `/read/Por si las voces vuelven - Ángel Martín.sdr`
+- `/read/Pretties - Scott Westerfeld.sdr`
+- `/read/Queer_ A Graphic History - Meg-John Barker (5998).sdr`
+- `/read/Raised in Captivity_ Fictional Nonfiction - Chuck Klosterman.sdr`
+- `/read/Rape - Joyce Carol Oates.sdr`
+- `/read/Read Between the Lines_ A Novel - Rachel Lacey (5427).sdr`
+- `/read/Romantic Comedy (Reese's Book Club)_ A Novel - Curtis Sittenfeld (5878).sdr`
+- `/read/Rubáiyát of Omar Khayyám, and Salámán and Absál - Ralph Waldo Emerson.sdr`
+- `/read/Sadie Dingfelder - Do I Know You__ A Faceblind Reporter's Journey Into the Science of Sight_ Memory_ and Imagination.sdr`
+- `/read/Sally Thorne - The Hating Game.sdr`
+- `/read/Sayaka Murata - Convenience Store Woman.sdr`
+- `/read/Shakespeare Was a Woman and Other Heresies_ How Doubting the Bard Became the Biggest Tabo_ How Doubting the Bard Became the Biggest Taboo in Literature - Elizabeth Winkler (5908).sdr`
+- `/read/Sierra Greer - Annie Bot.sdr`
+- `/read/Specials - Scott Westerfeld.sdr`
+- `/read/Stuck With You - Ali Hazelwood.sdr`
+- `/read/Sure, I'll Join Your Cult_ A Memoir of Mental Illness and the Quest to Belong Anywhere - Maria Bamford.sdr`
+- `/read/Suzuki Suzumi - Gifted.sdr`
+- `/read/Tales of Falling and Flying - Ben Loory (5797).sdr`
+- `/read/The Bomber Mafia - Malcolm Gladwell.sdr`
+- `/read/the courage to be disliked.sdr`
+- `/read/The Men Who Stare at Goats - Jon Ronson.sdr`
+- `/read/The Soulmate Equation - Christina Lauren.sdr`
+- `/read/The Spanish Love Deception - Elena Armas.sdr`
+- `/read/The Theory of Everything Else - Dan Schreiber.sdr`
+- `/read/TLDR - The Bonjour Effect.sdr`
+- `/read/Trick Mirror_ Reflections on Self-Delusion - Jia Tolentino (4775).sdr`
+- `/read/Uglies - Scott Westerfeld.sdr`
+- `/read/Users_ A Novel - Colin Winnette (5915).sdr`
+- `/read/Violette Leduc - Thérèse et Isabelle.sdr`
+- `/read/When Katie Met Cassidy - Camille Perri (4942).sdr`
+- `/read/Who's Afraid of Gender_ - Judith Butler.sdr`
+- `/read/Why I Wake Early - Mary Oliver (5652).sdr`
+- `/read/Why I Wake Early - Mary Oliver.sdr`
+- `/read/Why Not Me_ - Mindy Kaling (5453).sdr`
+- `/read/Wonder Paradox_ Embracing the Weirdness of Existence and the Poetry of Our Lives, The - Jennifer Michael Hecht (5938).sdr`
+- `/read/Would You Rather__ A Memoir of Growing Up and Coming Out - Katie Heaney.sdr`
+- `/read/Wow, No Thank You. - Samantha Irby (4498).sdr`
+- `/read/Write for Your Life - Anna Quindlen (5452).sdr`
+- `/read/Year of Magical Thinking, The - Joan Didion (3488).sdr`
+- `/read/Yoga for People Who Can't Be Bothered to Do It_ Essays - Geoff Dyer.sdr`
+
+---
+**Settings Used:**
+- Excluded Folders: `.adds, .kobo, $RECYCLE.BIN, System Volume Information, .git, .obsidian, .stfolder, .stversions`
+- Allowed File Types: `epub, pdf, mobi, cbz`
