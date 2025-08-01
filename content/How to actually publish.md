@@ -9,4 +9,4 @@ The hosting can be a number of things, but they source the content made with qua
 
 Every time there is a significant change there is a quartz command that must be made through console.
 
-[[install diary]]
+[[Susan Sontag - Against Interpretation _ Other Essays (FSG, 1966)]]
